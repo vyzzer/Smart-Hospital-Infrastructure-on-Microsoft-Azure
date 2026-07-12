@@ -17,7 +17,7 @@ Created Resource Group **RG-HealthcarePlus** in Central India.
 
 ## Virtual Network and Subnets
 
-![VNet](Screenshots/VNet%20(1).png)
+![VNet](screenshots/VNet%20(1).png)
 
 Configured:
 - VNet-Healthcare
@@ -30,7 +30,7 @@ Configured:
 
 ## Users and RBAC
 
-![Users & RBAC](Screenshots/Users%26RBAC%20(1).png)
+![Users & RBAC](screenshots/Users%26RBAC%20(1).png)
 
 Created:
 - doctors
@@ -43,7 +43,7 @@ Assigned users and roles.
 
 ## Network Security Group
 
-![NSG](Screenshots/NSG%20(1).png)
+![NSG](screenshots/NSG%20(1).png)
 
 Configured inbound rules:
 - HTTP (80)
@@ -55,7 +55,7 @@ Configured inbound rules:
 
 ## Windows Server IIS Website
 
-![IIS](Screenshots/IIS%20(1).png)
+![IIS](screenshots/IIS%20(1).png)
 
 Hosted HealthcarePlus Hospital website using IIS.
 
@@ -63,7 +63,7 @@ Hosted HealthcarePlus Hospital website using IIS.
 
 ## Ubuntu Linux Nginx Portal
 
-![Nginx](Screenshots/Nginx%20(1).png)
+![Nginx](screenshots/Nginx%20(1).png)
 
 Hosted internal hospital portal using Nginx.
 
@@ -71,7 +71,7 @@ Hosted internal hospital portal using Nginx.
 
 ## Azure Storage Account
 
-![Storage](Screenshots/Storage%20(1).png)
+![Storage](screenshots/Storage%20(1).png)
 
 Created:
 - documents
@@ -85,7 +85,7 @@ containers for hospital data.
 
 ## Azure File Share
 
-![File Share](Screenshots/FileShare%20(1).png)
+![File Share](screenshots/FileShare%20(1).png)
 
 Created:
 - hospitalshare
@@ -95,7 +95,7 @@ Created:
 
 ## Azure Key Vault
 
-![Key Vault](Screenshots/KeyVault%20(1).png)
+![Key Vault](screenshots/KeyVault%20(1).png)
 
 Stored:
 - DbPassword
@@ -105,7 +105,7 @@ Stored:
 
 ## Azure DNS
 
-![DNS](Screenshots/DNS%20(1).png)
+![DNS](screenshots/DNS%20(1).png)
 
 Configured:
 - vp-cloudelab.xyz
@@ -116,7 +116,7 @@ Configured:
 
 ## Azure Monitor and Log Analytics
 
-![Monitor](Screenshots/Monitor%20(1).png)
+![Monitor](screenshots/Monitor%20(1).png)
 
 Configured:
 - Log Analytics Workspace
@@ -127,7 +127,7 @@ Configured:
 
 ## Recovery Services Vault and Backup
 
-![Backup](Screenshots/Backup%20(1).png)
+![Backup](screenshots/Backup%20(1).png)
 
 Configured VM backup and recovery.
 
@@ -135,7 +135,7 @@ Configured VM backup and recovery.
 
 ## Cost Management
 
-![Cost Management](Screenshots/CostManagement.png)
+![Cost Management](screenshots/CostManagement.png)
 
 Configured Azure Budget and cost monitoring.
 
