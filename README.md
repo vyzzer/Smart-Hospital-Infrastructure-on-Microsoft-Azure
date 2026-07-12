@@ -9,7 +9,7 @@ This project demonstrates the deployment and management of a Smart Hospital Infr
 
 ## Resource Group
 
-![Resource Group](Screenshot/ResourceGroup%20Group.png)
+![Resource Group](Screenshot/Resource%20Group.png)
 
 Created Resource Group **RG-HealthcarePlus** in Central India.
 
