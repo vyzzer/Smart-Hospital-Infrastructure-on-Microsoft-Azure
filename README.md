@@ -18,6 +18,8 @@ Created Resource Group **RG-HealthcarePlus** in Central India.
 ## Virtual Network and Subnets
 
 ![VNet](screenshots/VNet%20(1).png)
+![VNet](screenshots/VNet%20(2).png)
+![VNet](screenshots/VNet%20(3).png)
 
 Configured:
 - VNet-Healthcare
