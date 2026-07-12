@@ -110,6 +110,9 @@ containers for hospital data.
 ## Azure File Share
 
 ![File Share](screenshots/FileShare%20(1).png)
+![File Share](screenshots/FileShare%20(2).png)
+![File Share](screenshots/FileShare%20(3).png)
+![File Share](screenshots/FileShare%20(4).png)
 
 Created:
 - hospitalshare
@@ -120,6 +123,11 @@ Created:
 ## Azure Key Vault
 
 ![Key Vault](screenshots/KeyVault%20(1).png)
+![Key Vault](screenshots/KeyVault%20(2).png)
+![Key Vault](screenshots/KeyVault%20(3).png) 
+![Key Vault](screenshots/KeyVault%20(4).png)
+![Key Vault](screenshots/KeyVault%20(5).png)
+![Key Vault](screenshots/KeyVault%20(6).png)
 
 Stored:
 - DbPassword
@@ -130,6 +138,11 @@ Stored:
 ## Azure DNS
 
 ![DNS](screenshots/DNS%20(1).png)
+![DNS](screenshots/DNS%20(2).png)
+![DNS](screenshots/DNS%20(3).png)
+![DNS](screenshots/DNS%20(4).png)
+![DNS](screenshots/DNS%20(5).png)
+![DNS](screenshots/DNS%20(6).png)
 
 Configured:
 - vp-cloudelab.xyz
@@ -141,6 +154,12 @@ Configured:
 ## Azure Monitor and Log Analytics
 
 ![Monitor](screenshots/Monitor%20(1).png)
+![Monitor](screenshots/Monitor%20(2).png)
+![Monitor](screenshots/Monitor%20(3).png)
+![Monitor](screenshots/Monitor%20(4).png)
+![Monitor](screenshots/Monitor%20(5).png)
+![Monitor](screenshots/Monitor%20(6).png)
+![Monitor](screenshots/Monitor%20(7).png)
 
 Configured:
 - Log Analytics Workspace
