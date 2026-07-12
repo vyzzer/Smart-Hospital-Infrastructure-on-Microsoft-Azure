@@ -130,8 +130,17 @@ Configured:
 ## Recovery Services Vault and Backup
 
 ![Backup](screenshots/Backup%20(1).png)
+![Backup](screenshots/Backup%20(2).png)
+![Backup](screenshots/Backup%20(3).png)
+![Backup](screenshots/Backup%20(4).png)
+![Backup](screenshots/Backup%20(5).png)
+![Backup](screenshots/Backup%20(6).png)
 
 Configured VM backup and recovery.
+
+![Backuping](screenshots/Backuping%20(1).png)
+![Backuping](screenshots/Backuping%20(2).png)
+![Backuping](screenshots/Backuping%20(3).png)
 
 ---
 
