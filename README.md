@@ -142,6 +142,9 @@ Stored:
 ![DNS](screenshots/DNS%20(3).png)
 ![DNS](screenshots/DNS%20(4).png)
 ![DNS](screenshots/DNS%20(5).png)
+
+changing the nameserver to Azure from domain provider
+
 ![DNS](screenshots/DNS%20(6).png)
 
 Configured:
