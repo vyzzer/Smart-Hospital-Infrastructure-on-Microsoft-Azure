@@ -32,8 +32,8 @@ Configured:
 
 ## Users and RBAC
 
-![Users&RBAC](screenshots/Users%26RBAC%20(1).png)
 ![Users&RBAC](screenshots/Users%26RBAC%20%20(1).png)
+![Users&RBAC](screenshots/Users%26RBAC%20%20(2).png)
 Created:
 - doctors
 - frontoffice
