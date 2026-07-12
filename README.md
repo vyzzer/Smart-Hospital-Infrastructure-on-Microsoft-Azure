@@ -34,6 +34,8 @@ Configured:
 
 ![Users&RBAC](screenshots/Users%26RBAC%20%20(1).png)
 ![Users&RBAC](screenshots/Users%26RBAC%20%20(2).png)
+![Users&RBAC](screenshots/Users%26RBAC%20%20(3).png)
+
 Created:
 - doctors
 - frontoffice
@@ -46,6 +48,8 @@ Assigned users and roles.
 ## Network Security Group
 
 ![NSG](screenshots/NSG%20(1).png)
+![NSG](screenshots/NSG%20(2).png)
+![NSG](screenshots/NSG%20(3).png)
 
 Configured inbound rules:
 - HTTP (80)
@@ -58,6 +62,14 @@ Configured inbound rules:
 ## Windows Server IIS Website
 
 ![IIS](screenshots/IIS%20(1).png)
+![IIS](screenshots/IIS%20(2).png)
+![IIS](screenshots/IIS%20(3).png)
+![IIS](screenshots/IIS%20(4).png)
+![IIS](screenshots/IIS%20(5).png)
+![IIS](screenshots/IIS%20(6).png)
+![IIS](screenshots/IIS%20(7).png)
+
+
 
 Hosted HealthcarePlus Hospital website using IIS.
 
@@ -66,6 +78,10 @@ Hosted HealthcarePlus Hospital website using IIS.
 ## Ubuntu Linux Nginx Portal
 
 ![Nginx](screenshots/Nginx%20(1).png)
+![Nginx](screenshots/Nginx%20(2).png)
+![Nginx](screenshots/Nginx%20(3).png)
+![Nginx](screenshots/Nginx%20(4).png)
+![Nginx](screenshots/Nginx%20(5).png)
 
 Hosted internal hospital portal using Nginx.
 
@@ -74,6 +90,12 @@ Hosted internal hospital portal using Nginx.
 ## Azure Storage Account
 
 ![Storage](screenshots/Storage%20(1).png)
+![Storage](screenshots/Storage%20(2).png)
+![Storage](screenshots/Storage%20(3).png)
+![Storage](screenshots/Storage%20(4).png)
+![Storage](screenshots/Storage%20(5).png)
+![Storage](screenshots/Storage%20(6).png)
+
 
 Created:
 - documents
