@@ -1,5 +1,5 @@
 # Smart-Hospital-Infrastructure-on-Microsoft-Azure
-# Smart Hospital Infrastructure on Microsoft Azure
+
 
 ## Project Overview
 
