@@ -194,8 +194,8 @@ Configured VM backup and recovery.
 
 Configured Azure Budget and cost monitoring.
 
-![DomainSearch](DomainSearch%20(1).png)
-![DomainSearch](DomainSearch%20(2).png)
+![DomainSearch](screenshots/DomainSearch%20(1).png)
+![DomainSearch](screenshots/DomainSearch%20(2).png)
 
 
 
