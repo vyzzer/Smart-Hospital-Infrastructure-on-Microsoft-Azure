@@ -9,6 +9,7 @@
 - [Goals and technologies](#-goals-and-technologies)
 - [Architecture](#-architecture)
 - [Infrastructure walkthrough](#-infrastructure-walkthrough)
+- [VM configuration and deployment commands](#-vm-configuration-and-deployment-commands)
 - [Security considerations](#-security-considerations)
 - [Verification checklist](#-verification-checklist)
 - [Skills demonstrated](#-skills-demonstrated)
@@ -267,6 +268,12 @@ flowchart TB
 
 ![Domain research 1](screenshots/domainSearch%20(1).png)
 ![Domain research 2](screenshots/domainSearch%20(2).png)
+
+## 💻 VM configuration and deployment commands
+
+For a detailed walkthrough of **Windows Server IIS installation, Ubuntu Nginx installation, service verification, and example website deployment commands**, see the [VM Configuration & Website Deployment Guide](docs/vm-configuration.md).
+
+**Evidence transparency:** The walkthrough references screenshots from a previous Azure lab, not the current hospital deployment. Example file-copy and web server configuration commands are clearly marked as illustrative rather than verified historical commands.
 
 ## 🔐 Security considerations
 
